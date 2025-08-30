@@ -1,3 +1,12 @@
 body {
     background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h3 { 
+    text-decoration: underline;
 }
